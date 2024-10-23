@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentChecker", "ContentCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatorTester", "Contrib\SimulatorTester\SimulatorTester.csproj", "{792B01A1-5C43-4FFA-A4C0-BBDC95A4A178}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orts.Formats", "Orts.Formats\Orts.Formats.csproj", "{ADA0BF59-66A1-4F52-9636-B392D4767444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomlTests", "TomlTests\TomlTests.csproj", "{EF1F152E-30B7-48DE-8DBF-94A953289B84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{792B01A1-5C43-4FFA-A4C0-BBDC95A4A178}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{792B01A1-5C43-4FFA-A4C0-BBDC95A4A178}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{792B01A1-5C43-4FFA-A4C0-BBDC95A4A178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA0BF59-66A1-4F52-9636-B392D4767444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA0BF59-66A1-4F52-9636-B392D4767444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA0BF59-66A1-4F52-9636-B392D4767444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA0BF59-66A1-4F52-9636-B392D4767444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1F152E-30B7-48DE-8DBF-94A953289B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1F152E-30B7-48DE-8DBF-94A953289B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1F152E-30B7-48DE-8DBF-94A953289B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1F152E-30B7-48DE-8DBF-94A953289B84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
